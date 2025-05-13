@@ -47,7 +47,7 @@
     "typescript": "^1.8.10",
     "url-loader": "^0.5.7",
     "webpack": "^1.12.12",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^5.2.1"
   },
   "main": "release/visualizer.min.js",
   "typings": "cjs/visualizer.d.ts"
